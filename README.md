@@ -28,4 +28,4 @@ More projects and details: **[pavlinastavreva.ch](https://pavlinastavreva.ch)**
 
 ### Contact
 
-[![Website](https://img.shields.io/badge/Website-pavlinastavreva.ch-111111?style=flat&logo=googlechrome&logoColor=FFB400)](https://pavlinastavreva.ch) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pavlina_Stavreva-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavlina-stavreva-859a54286/) [![Email](https://img.shields.io/badge/Email-mail@pavlinastavreva.ch-FFB400?style=flat&logo=maildotru&logoColor=black)](mailto:mail@pavlinastavreva.ch)
+[![Website](https://img.shields.io/badge/Website-pavlinastavreva.ch-111111?style=flat&logo=googlechrome&logoColor=FFB400)](https://pavlinastavreva.ch) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pavlina_Stavreva-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavlinastavreva/) [![Email](https://img.shields.io/badge/Email-mail@pavlinastavreva.ch-FFB400?style=flat&logo=maildotru&logoColor=black)](mailto:mail@pavlinastavreva.ch)
