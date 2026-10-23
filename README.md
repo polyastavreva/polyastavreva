@@ -2,7 +2,7 @@
 
 **Front-End Developer** in Switzerland with 13 years of experience turning ideas and designs into responsive, user-friendly websites and web applications.
 
-- 💼 Front-End Developer at **Häfliger Group AG**, Kerzers
+- 🧩 Building my own website templates with **Nuxt** and **Tailwind CSS**
 - 🛠️ Vue.js, Nuxt, JavaScript, TypeScript, SEO
 - 🌍 Bulgarian · English · German (learning)
 - 🌐 Portfolio: **[pavlinastavreva.ch](https://pavlinastavreva.ch)** · [Deutsch](https://pavlinastavreva.ch/de)
